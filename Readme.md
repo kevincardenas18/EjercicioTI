@@ -9,7 +9,8 @@ entrada,  validar contra una base de datos y determinar si las
 credenciales son correctas o no.
 
 La Api rest se creo mediante el framework de ASP.NET mediante el uso de
-una base de datos creada en SQL.
+una base de datos creada en SQL. Se debe ejecutar primero el Script de la base de datos.
+El archivo es script.sql
 
 ![Tabla Descripción generada
 automáticamente](./media/image1.png){width="3.7838604549431323in"
